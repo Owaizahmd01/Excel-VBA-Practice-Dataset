@@ -1,5 +1,7 @@
+
 # Excel-VBA-Practice-Dataset
 
+![Data-Analytics-in-Excel](https://cdn-images-1.medium.com/fit/t/1600/480/1*g__jiesLRIfCRefVG69Pfw.gif)
 
 🔶 This dataset is full of practicing VBA Concepts.
 
